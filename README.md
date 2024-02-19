@@ -1,7 +1,7 @@
 # Analyze-NYSE-Data
 
 objectives of the project :                                                                    
-•	conduct an analysis of Kaggle's NYSE S&P 500 Dataset and create a presentation to share findings.             
+•	conduct an analysis of NYSE S&P 500 Dataset and create a presentation to share findings.             
 •	develop a dashboard for a Profit and Loss Statement.                       
 •	create a Financial Forecasting Model using three scenarios.           
 
